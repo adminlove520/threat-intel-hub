@@ -16,7 +16,7 @@
 
 ## 核心价值
 整合多源威胁情报，构建「情报-检测-响应-协同」闭环，赋能安全团队高效应对复杂威胁环境，实现安全运营的自动化与智能化升级。  
-[Threat Intel Hub在线用户手册📄](https://www.yuque.com/weare/mx0zcy/vrqwsxe3vgtesate?singleDoc#)
+[Threat Intel Hub在线用户手册📄](https://www.yuque.com/weare/qqlqbo/dy6imvs7bh3d0ebg?singleDoc#)
 
 ## 最近更新
 ### 2025-11-26
